@@ -4,7 +4,7 @@
 codeuri = "C:\\Users\\jason\\IdeaProjects\\AWSDev"
 runtime = "java21"
 architecture = "x86_64"
-handler = "com.revcom.LambdaTest1"
+handler = "uk.co.revsys.LambdaTest1"
 manifest_hash = ""
 packagetype = "Zip"
 functions = ["Function"]

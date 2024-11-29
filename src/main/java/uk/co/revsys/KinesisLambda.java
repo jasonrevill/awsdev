@@ -1,10 +1,8 @@
-package com.revcom;
+package uk.co.revsys;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
 import com.amazonaws.services.lambda.runtime.events.KinesisEvent;
-import com.amazonaws.services.lambda.runtime.events.SQSEvent;
-import com.amazonaws.services.lambda.runtime.events.SQSEvent.SQSMessage;
 
 import java.sql.SQLException;
 import java.time.Instant;
